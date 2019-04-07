@@ -1,0 +1,4 @@
+[07-Apr-2019 17:10:03 UTC] PHP Warning:  require_once(/wp-load.php): failed to open stream: No such file or directory in /home/sinilnikovjanikt/public_html/wordpress/wp-content/plugins/gitium/gitium-webhook.php on line 23
+[07-Apr-2019 17:10:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/wp-load.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sinilnikovjanikt/public_html/wordpress/wp-content/plugins/gitium/gitium-webhook.php on line 23
+[07-Apr-2019 17:12:52 UTC] PHP Warning:  require_once(/wp-load.php): failed to open stream: No such file or directory in /home/sinilnikovjanikt/public_html/wordpress/wp-content/plugins/gitium/gitium-webhook.php on line 23
+[07-Apr-2019 17:12:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/wp-load.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sinilnikovjanikt/public_html/wordpress/wp-content/plugins/gitium/gitium-webhook.php on line 23
