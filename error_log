@@ -1,0 +1,36 @@
+[10-Apr-2019 19:53:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mesmerize_add_kirki_field() in /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php:6
+Stack trace:
+#0 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php(150): highlight_side_navigation_controls(1, 'side_navigation')
+#1 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/functions.php(55): require_once('/home/sinilniko...')
+#2 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/customizer/customizer.php(86): highlight_require('inc/side-naviga...')
+#3 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/class-wp-hook.php(286): {closure}('')
+#4 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home/sinilnikovjanikt/public_html/wordpress/wp-settings.php(489): do_action in /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php on line 6
+[10-Apr-2019 19:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mesmerize_add_kirki_field() in /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php:6
+Stack trace:
+#0 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php(150): highlight_side_navigation_controls(1, 'side_navigation')
+#1 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/functions.php(55): require_once('/home/sinilniko...')
+#2 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/customizer/customizer.php(86): highlight_require('inc/side-naviga...')
+#3 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/class-wp-hook.php(286): {closure}('')
+#4 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home/sinilnikovjanikt/public_html/wordpress/wp-settings.php(489): do_action in /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php on line 6
+[10-Apr-2019 19:54:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mesmerize_add_kirki_field() in /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php:6
+Stack trace:
+#0 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php(150): highlight_side_navigation_controls(1, 'side_navigation')
+#1 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/functions.php(55): require_once('/home/sinilniko...')
+#2 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/customizer/customizer.php(86): highlight_require('inc/side-naviga...')
+#3 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/class-wp-hook.php(286): {closure}('')
+#4 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home/sinilnikovjanikt/public_html/wordpress/wp-settings.php(489): do_action in /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php on line 6
+[10-Apr-2019 19:54:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mesmerize_add_kirki_field() in /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php:6
+Stack trace:
+#0 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php(150): highlight_side_navigation_controls(1, 'side_navigation')
+#1 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/functions.php(55): require_once('/home/sinilniko...')
+#2 /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/customizer/customizer.php(86): highlight_require('inc/side-naviga...')
+#3 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/class-wp-hook.php(286): {closure}('')
+#4 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/sinilnikovjanikt/public_html/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#6 /home/sinilnikovjanikt/public_html/wordpress/wp-settings.php(489): do_action in /home/sinilnikovjanikt/public_html/wordpress/wp-content/themes/highlight/inc/side-navigation.php on line 6
